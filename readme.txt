@@ -1,9 +1,10 @@
 === Google Add to Circle ===
 Contributors: yawalkarm
+Plugin URI: http://wordpress.org/extend/plugins/google-add-to-circle/
 Donate link: http://digitalfair.tk
-Tags: Google+, add to circles, circle, subscribe, social, widget, shortcode, fans
+Tags: Google+, add to circles, circle, plus one badge, subscribe, social, widget, shortcode, fans
 Requires at least: 3.0
-Tested up to: 3.3
+Tested up to: 3.3.1
 Stable tag: 1.0
 
 This plugin let the users to add your Google+ Page to their circle directly from your website.
@@ -19,6 +20,7 @@ It has a badge customization, through which you may control the look of the widg
 This plugin will definitely help you to increase your fan base and followers on Google. Check out the screenshots.
 
 You need to add the following code to your `header.php` file in the `<head>` section:
+
 **`<link href="<YOUR_GOOGLE+_PAGE_URL_HERE>" rel="publisher" /><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>`**
 
 Replace the **`<YOUR_GOOGLE+_PAGE_URL_HERE>`** with your Google+ page url and save the file.
@@ -49,6 +51,7 @@ Then fill your details such as your Google profile url and save the widget. Now 
 == Upgrade Notice ==
 
 N/A
+
 == Changelog ==
 
 = 1.0 =
